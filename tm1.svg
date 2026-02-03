@@ -1,0 +1,13 @@
+<svg width="600" height="200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="cardShadow"
+            x="-30%" y="-10%"
+            width="160%" height="180%">
+      <feDropShadow
+        dx="11"
+        dy="53"
+        stdDeviation="40"
+        flood-color="#000"
+        flood-opacity="0.1"/>
+    </filter>
+  </defs
